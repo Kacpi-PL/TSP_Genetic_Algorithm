@@ -51,7 +51,7 @@ During the development and testing of this algorithm, several performance benchm
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/kacpipl2006/TSP_With_Genetic_Algorithm.git
+   git clone https://github.com/Kacpi-PL/TSP_With_Genetic_Algorithm.git
    cd TSP_With_Genetic_Algorithm
 ```
 
